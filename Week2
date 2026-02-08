@@ -1,0 +1,4 @@
+mkdir WEEK2
+git mv 25015-0028-1.ipynb assignment_02_setup.ipynb README.md outputs WEEK2/
+git commit -m "Organize Week 02 files"
+git push
