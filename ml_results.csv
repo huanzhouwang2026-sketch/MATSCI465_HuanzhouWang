@@ -1,0 +1,5 @@
+Method,Task,Particles_Detected,F1_Score,Precision,Recall,Silhouette_Score,Runtime_sec,Notes
+Classical Watershed,Segmentation,9247.0,,,,,0.316,"100 images, unsupervised"
+SVM,Classification,,0.8101,0.8292,0.8125,,0.003,"400 balanced samples, 7 features"
+Random Forest,Classification,,0.8737,0.8906,0.875,,0.199,"400 balanced samples, 7 features"
+K-Means (k=3),Clustering,4292.0,,,,0.1992,,4292 regions across 50 images
