@@ -1,0 +1,7 @@
+Method,Task,Accuracy_F1_IoU,Runtime,Data_Requirements,Interpretability
+Watershed (Classical),Segmentation,9247 particles,0.32s/img,None (unsupervised),High — direct physical meaning
+SVM,Classification,F1=0.810,0.003s,50+ labeled regions,Medium — feature importance available
+Random Forest,Classification,F1=0.874,0.199s,50+ labeled regions,Medium — feature importance available
+K-Means (k=3),Clustering,Silhouette=0.199,Fast (<1s),None (unsupervised),Low — cluster assignment only
+CNN (Classification),Classification,F1=0.333,9.2s,Particle patches + labels,Low — black box
+U-Net (Segmentation),Segmentation,"IoU=0.758, Dice=0.859",633.1s,30 pixel-level masks,Low — black box
