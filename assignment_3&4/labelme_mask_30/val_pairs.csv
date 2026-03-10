@@ -1,0 +1,7 @@
+prefix,image_filename,image_path,mask_filename,mask_path,shape_count,mask_coverage
+11500X,11500X140413.png,labelme_mask_30\images\11500X140413.png,11500X140413_mask.png,labelme_mask_30\masks\11500X140413_mask.png,6,0.165311
+11500X,11500X200674.png,labelme_mask_30\images\11500X200674.png,11500X200674_mask.png,labelme_mask_30\masks\11500X200674_mask.png,3,0.063113
+25000X,25000X24986.png,labelme_mask_30\images\25000X24986.png,25000X24986_mask.png,labelme_mask_30\masks\25000X24986_mask.png,2,0.049256
+25000X,25000X36446.png,labelme_mask_30\images\25000X36446.png,25000X36446_mask.png,labelme_mask_30\masks\25000X36446_mask.png,5,0.133899
+53000X,53000X1905.png,labelme_mask_30\images\53000X1905.png,53000X1905_mask.png,labelme_mask_30\masks\53000X1905_mask.png,1,0.036196
+53000X,53000X324.png,labelme_mask_30\images\53000X324.png,53000X324_mask.png,labelme_mask_30\masks\53000X324_mask.png,6,0.184553
